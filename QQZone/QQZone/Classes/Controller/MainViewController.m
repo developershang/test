@@ -16,7 +16,7 @@
 
 
 #import "AllStatusController.h"
-
+// Dock 栏的使用
 @interface MainViewController ()<BottomMenuDelegate,TabbarDelegate,DockBtnDelegate,DockBtnDelegate>
 {
     Dock *_dock;
